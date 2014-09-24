@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fdd4939a-19d2-4927-abd6-fac11889bcb6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies>
+      <ReferencedAssembly AssemblyName="Antlr3.Runtime" />
+      <ReferencedAssembly AssemblyName="EntityFramework" />
+      <ReferencedAssembly AssemblyName="Microsoft.CSharp" />
+      <ReferencedAssembly AssemblyName="Microsoft.Data.Edm" />
+      <ReferencedAssembly AssemblyName="Microsoft.Data.OData" />
+      <ReferencedAssembly AssemblyName="Microsoft.Web.Infrastructure" />
+      <ReferencedAssembly AssemblyName="Microsoft.Web.Mvc.FixedDisplayModes" />
+      <ReferencedAssembly AssemblyName="mscorlib" />
+      <ReferencedAssembly AssemblyName="System" />
+      <ReferencedAssembly AssemblyName="System.ComponentModel.DataAnnotations" />
+      <ReferencedAssembly AssemblyName="System.Configuration" />
+      <ReferencedAssembly AssemblyName="System.Core" />
+      <ReferencedAssembly AssemblyName="System.Data" />
+      <ReferencedAssembly AssemblyName="System.Data.DataSetExtensions" />
+      <ReferencedAssembly AssemblyName="System.Data.Entity" />
+      <ReferencedAssembly AssemblyName="System.Drawing" />
+      <ReferencedAssembly AssemblyName="System.Net.Http" />
+      <ReferencedAssembly AssemblyName="System.Net.Http.Formatting" />
+      <ReferencedAssembly AssemblyName="System.Net.Http.WebRequest" />
+      <ReferencedAssembly AssemblyName="System.Runtime.Serialization" />
+      <ReferencedAssembly AssemblyName="System.ServiceModel" />
+      <ReferencedAssembly AssemblyName="System.Spatial" />
+      <ReferencedAssembly AssemblyName="System.Web" />
+      <ReferencedAssembly AssemblyName="System.Web.Abstractions" />
+      <ReferencedAssembly AssemblyName="System.Web.ApplicationServices" />
+      <ReferencedAssembly AssemblyName="System.Web.Entity" />
+      <ReferencedAssembly AssemblyName="System.Web.Helpers" />
+      <ReferencedAssembly AssemblyName="System.Web.Http" />
+      <ReferencedAssembly AssemblyName="System.Web.Http.OData" />
+      <ReferencedAssembly AssemblyName="System.Web.Http.Tracing" />
+      <ReferencedAssembly AssemblyName="System.Web.Http.WebHost" />
+      <ReferencedAssembly AssemblyName="System.Web.Mvc" />
+      <ReferencedAssembly AssemblyName="System.Web.Optimization" />
+      <ReferencedAssembly AssemblyName="System.Web.Providers" />
+      <ReferencedAssembly AssemblyName="System.Web.Razor" />
+      <ReferencedAssembly AssemblyName="System.Web.Routing" />
+      <ReferencedAssembly AssemblyName="System.Web.WebPages" />
+      <ReferencedAssembly AssemblyName="System.Web.WebPages.Deployment" />
+      <ReferencedAssembly AssemblyName="System.Web.WebPages.Razor" />
+      <ReferencedAssembly AssemblyName="System.Xml" />
+      <ReferencedAssembly AssemblyName="System.Xml.Linq" />
+      <ReferencedAssembly AssemblyName="TembooSDK" />
+      <ReferencedAssembly AssemblyName="WebGrease" />
+    </ReferencedAssemblies>
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://www.webservicex.net/globalweather.asmx?WSDL" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="globalweather.wsdl" MetadataType="Wsdl" ID="1bf1c37d-59af-4a1e-86fe-3807080c18bd" SourceId="1" SourceUrl="http://www.webservicex.net/globalweather.asmx?WSDL" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

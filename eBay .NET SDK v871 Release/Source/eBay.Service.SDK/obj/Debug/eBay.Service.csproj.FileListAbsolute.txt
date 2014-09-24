@@ -1,0 +1,5 @@
+C:\Users\Danits\Downloads\DANITS DEMO SCRIPTS\ProAPIService\eBayDotNET40sdk871\eBay .NET SDK v871 Release\Source\eBay.Service.SDK\bin\Debug\eBay.Service.dll
+C:\Users\Danits\Downloads\DANITS DEMO SCRIPTS\ProAPIService\eBayDotNET40sdk871\eBay .NET SDK v871 Release\Source\eBay.Service.SDK\bin\Debug\eBay.Service.pdb
+C:\Users\Danits\Downloads\DANITS DEMO SCRIPTS\ProAPIService\eBayDotNET40sdk871\eBay .NET SDK v871 Release\Source\eBay.Service.SDK\obj\Debug\eBay.Service.dll
+C:\Users\Danits\Downloads\DANITS DEMO SCRIPTS\ProAPIService\eBayDotNET40sdk871\eBay .NET SDK v871 Release\Source\eBay.Service.SDK\obj\Debug\eBay.Service.pdb
+C:\Users\Danits\Downloads\DANITS DEMO SCRIPTS\ProAPIService\eBayDotNET40sdk871\eBay .NET SDK v871 Release\Source\eBay.Service.SDK\obj\Debug\eBay.Service.csprojResolveAssemblyReference.cache
